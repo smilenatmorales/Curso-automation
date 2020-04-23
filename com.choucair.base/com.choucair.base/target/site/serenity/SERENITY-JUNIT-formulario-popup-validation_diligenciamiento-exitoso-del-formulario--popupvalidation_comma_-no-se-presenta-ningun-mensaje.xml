@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Formulario Popup Validation" skipped="0" tests="1" time="149.66" timestamp="2020-04-22T15:23:37.458-05:00[America/Bogota]"><testcase name="Diligenciamiento exitoso del formulario  PopupValidation, no se presenta ningun mensaje"><error message="The following error occurred: chrome not reachable&#10;  (Session info: chrome=81.0.4044.113)&#10;  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)&#10;Command duration or timeout: 0 milliseconds&#10;Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'&#10;System info: host: 'CHBOGML-102799', ip: '192.168.0.24', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'&#10;Driver info: org.openqa.selenium.remote.RemoteWebDriver&#10;Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\storresm\AppData\Local\Temp\scoped_dir16484_12213}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=81.0.4044.113, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]&#10;Session ID: 4124d3bb1bfeb1a6b988b8ae1875e417&#10;*** Element info: {Using=xpath, value=(//DIV [@class='formErrorContent'])[1]}&#10;Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'&#10;System info: host: 'CHBOGML-102799', ip: '192.168.0.24', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.WebDriverException">The following error occurred: chrome not reachable
+  (Session info: chrome=81.0.4044.113)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
+System info: host: 'CHBOGML-102799', ip: '192.168.0.24', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\storresm\AppData\Local\Temp\scoped_dir16484_12213}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=81.0.4044.113, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4124d3bb1bfeb1a6b988b8ae1875e417
+*** Element info: {Using=xpath, value=(//DIV [@class='formErrorContent'])[1]}
+Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
+System info: host: 'CHBOGML-102799', ip: '192.168.0.24', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: unknown</error><system-err>The following error occurred: chrome not reachable
+  (Session info: chrome=81.0.4044.113)
+  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
+System info: host: 'CHBOGML-102799', ip: '192.168.0.24', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7), userDataDir=C:\Users\storresm\AppData\Local\Temp\scoped_dir16484_12213}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=81.0.4044.113, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 4124d3bb1bfeb1a6b988b8ae1875e417
+*** Element info: {Using=xpath, value=(//DIV [@class='formErrorContent'])[1]}
+Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
+System info: host: 'CHBOGML-102799', ip: '192.168.0.24', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: unknown&#13;
+com.choucair.formacion.pageobjects.ColorlibFormValidationPage.form_sin_errores(ColorlibFormValidationPage.java:142)&#13;
+com.choucair.formacion.steps.colorlibFormValidationSteps.verificar_ingreso_datos_formulario_exitoso(colorlibFormValidationSteps.java:33)&#13;
+com.choucair.formacion.definition.PopupValidationDefinition.verifico_ingreso_exitoso(PopupValidationDefinition.java:52)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
+</system-err></testcase></testsuite>
