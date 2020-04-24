@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Formulario Popup Validation" skipped="0" tests="1" time="30.06" timestamp="2020-04-21T22:41:25.110-05:00[America/Bogota]"><testcase name="Diligenciamiento con errores del formulario Popup Validation"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.choucair.formacion.definition.PopupValidationDefinition.diligenciar_formulario_Block_validation(PopupValidationDefinition.java:67)&#13;
+✽.When Diligenciar Formulario Block Validation(src/test/resources/features/Colorlib/Forms/PopupValidation.feature:51)&#13;
+</system-err></testcase></testsuite>
